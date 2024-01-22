@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vamsi Krishna and I'm a just regular software asura , from INDIA</h2>
+<h2 align="left">Hi 👋! i am Vamsi Krishna and I'm a just regular software asura , from INDIA</h2>
 
 ###
 
