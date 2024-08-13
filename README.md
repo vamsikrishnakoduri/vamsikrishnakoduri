@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Fleet Server and Elastic Agent in ELK](https://towardsdev.com/introduction-to-fleet-server-and-elastic-agent-in-elk-a37daa849faa?source=rss-ac268fc36aef------2)
+- [S3 as Input for Logstash](https://medium.com/@koduriivamsikrishna/s3-as-input-for-logstash-2ddf04fa5e32?source=rss-ac268fc36aef------2)
+- [Configure Elasticsearch as Output in Logstash](https://medium.com/@koduriivamsikrishna/configure-elasticsearch-as-output-in-logstash-373302f4a693?source=rss-ac268fc36aef------2)
+- [Setting up ELK Stack &lpar;Elastic Stack&rpar; on AWS EC2 instances.](https://medium.com/@koduriivamsikrishna/setting-up-elk-stack-elastic-stack-on-aws-ec2-instances-5538f9ba63bc?source=rss-ac268fc36aef------2)
+- [Backend Components of ElasticSearch](https://medium.com/@koduriivamsikrishna/backend-components-of-elasticsearch-3dcc438848eb?source=rss-ac268fc36aef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
