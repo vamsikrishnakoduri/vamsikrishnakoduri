@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi Koduri and I'm a just regular software asura , from INDIA</h1>
 <h3 align="center">AWS Certified Solutions Architect and DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Training LLM's, MLOps**
+- 🌱 I’m currently learning **Training LLM's, MlOps**
 
 - 📝 I regularly write articles on [https://medium.com/@koduriivamsikrishna](https://medium.com/@koduriivamsikrishna)
 
