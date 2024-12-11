@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Startups Should Embrace DevOps](https://medium.com/@koduriivamsikrishna/why-startups-should-embrace-devops-ed7265711bda?source=rss-ac268fc36aef------2)
 - [Logstash](https://medium.com/@koduriivamsikrishna/logstash-87634716cebc?source=rss-ac268fc36aef------2)
 - [Understanding Elasticsearch Indexes](https://medium.com/@koduriivamsikrishna/understanding-elasticsearch-indexes-d3fad42e6585?source=rss-ac268fc36aef------2)
 - [Introduction to Fleet Server and Elastic Agent in ELK](https://towardsdev.com/introduction-to-fleet-server-and-elastic-agent-in-elk-a37daa849faa?source=rss-ac268fc36aef------2)
 - [S3 as Input for Logstash](https://medium.com/@koduriivamsikrishna/s3-as-input-for-logstash-2ddf04fa5e32?source=rss-ac268fc36aef------2)
-- [Configure Elasticsearch as Output in Logstash](https://medium.com/@koduriivamsikrishna/configure-elasticsearch-as-output-in-logstash-373302f4a693?source=rss-ac268fc36aef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
