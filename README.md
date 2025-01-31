@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Prometheus and Grafana on a EKS Cluster Using Helm](https://towardsdev.com/install-prometheus-and-grafana-on-a-eks-cluster-using-helm-6fbfe903c595?source=rss-ac268fc36aef------2)
 - [Configuring SSL for Kibana on Ubuntu](https://medium.com/@koduriivamsikrishna/configuring-ssl-for-kibana-on-ubuntu-06520fc9028d?source=rss-ac268fc36aef------2)
 - [Configuring SSL for Kibana in Windows](https://medium.com/@koduriivamsikrishna/configuring-ssl-for-kibana-in-windows-5c844b484be2?source=rss-ac268fc36aef------2)
 - [Why Startups Should Embrace DevOps](https://medium.com/@koduriivamsikrishna/why-startups-should-embrace-devops-ed7265711bda?source=rss-ac268fc36aef------2)
 - [Logstash](https://medium.com/@koduriivamsikrishna/logstash-87634716cebc?source=rss-ac268fc36aef------2)
-- [Understanding Elasticsearch Indexes](https://medium.com/@koduriivamsikrishna/understanding-elasticsearch-indexes-d3fad42e6585?source=rss-ac268fc36aef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
