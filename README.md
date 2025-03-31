@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Administration: Essential Skills for System Administrators](https://medium.com/@koduriivamsikrishna/linux-administration-essential-skills-for-system-administrators-ce698b0ed403?source=rss-ac268fc36aef------2)
 - [Getting Started with Sysmon: Installation and Log Analysis with PowerShell.](https://towardsdev.com/getting-started-with-sysmon-installation-and-log-analysis-with-powershell-d1918d000189?source=rss-ac268fc36aef------2)
-- [Resolving Kubernetes Namespaces Stuck in Terminating State](https://medium.com/@koduriivamsikrishna/resolving-kubernetes-namespaces-stuck-in-terminating-state-bd79ca14466e?source=rss-ac268fc36aef------2)
+- [Resolving Kubernetes Namespaces Stuck in Terminating State](https://towardsdev.com/resolving-kubernetes-namespaces-stuck-in-terminating-state-bd79ca14466e?source=rss-ac268fc36aef------2)
 - [Install Prometheus and Grafana on a EKS Cluster Using Helm](https://towardsdev.com/install-prometheus-and-grafana-on-a-eks-cluster-using-helm-6fbfe903c595?source=rss-ac268fc36aef------2)
 - [Configuring SSL for Kibana on Ubuntu](https://medium.com/@koduriivamsikrishna/configuring-ssl-for-kibana-on-ubuntu-06520fc9028d?source=rss-ac268fc36aef------2)
-- [Configuring SSL for Kibana in Windows](https://medium.com/@koduriivamsikrishna/configuring-ssl-for-kibana-in-windows-5c844b484be2?source=rss-ac268fc36aef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
