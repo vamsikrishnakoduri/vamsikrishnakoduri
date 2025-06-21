@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Public to Private: Restricting EKS Dashboard Access via Internal LoadBalancer](https://towardsdev.com/from-public-to-private-restricting-eks-dashboard-access-via-internal-loadbalancer-3888c626ed9c?source=rss-ac268fc36aef------2)
+- [Automate Jenkins Pipeline Triggers from Slack Using n8n](https://towardsdev.com/automate-jenkins-pipeline-triggers-from-slack-using-n8n-b60c43c27328?source=rss-ac268fc36aef------2)
 - [Linux Administration: Essential Skills for System Administrators](https://medium.com/@koduriivamsikrishna/linux-administration-essential-skills-for-system-administrators-ce698b0ed403?source=rss-ac268fc36aef------2)
 - [Getting Started with Sysmon: Installation and Log Analysis with PowerShell.](https://towardsdev.com/getting-started-with-sysmon-installation-and-log-analysis-with-powershell-d1918d000189?source=rss-ac268fc36aef------2)
 - [Resolving Kubernetes Namespaces Stuck in Terminating State](https://towardsdev.com/resolving-kubernetes-namespaces-stuck-in-terminating-state-bd79ca14466e?source=rss-ac268fc36aef------2)
-- [Install Prometheus and Grafana on a EKS Cluster Using Helm](https://towardsdev.com/install-prometheus-and-grafana-on-a-eks-cluster-using-helm-6fbfe903c595?source=rss-ac268fc36aef------2)
-- [Configuring SSL for Kibana on Ubuntu](https://medium.com/@koduriivamsikrishna/configuring-ssl-for-kibana-on-ubuntu-06520fc9028d?source=rss-ac268fc36aef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
