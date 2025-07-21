@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Replacing HPA with VPA in Kubernetes: A Real-World Example](https://towardsdev.com/replacing-hpa-with-vpa-in-kubernetes-a-real-world-example-094b498b3232?source=rss-ac268fc36aef------2)
+- [Instrumenting a Python Microservice with OpenTelemetry on AWS EKS](https://towardsdev.com/instrumenting-a-python-microservice-with-opentelemetry-on-aws-eks-0c816f776b16?source=rss-ac268fc36aef------2)
 - [From Public to Private: Restricting EKS Dashboard Access via Internal LoadBalancer](https://towardsdev.com/from-public-to-private-restricting-eks-dashboard-access-via-internal-loadbalancer-3888c626ed9c?source=rss-ac268fc36aef------2)
 - [Automate Jenkins Pipeline Triggers from Slack Using n8n](https://towardsdev.com/automate-jenkins-pipeline-triggers-from-slack-using-n8n-b60c43c27328?source=rss-ac268fc36aef------2)
 - [Linux Administration: Essential Skills for System Administrators](https://medium.com/@koduriivamsikrishna/linux-administration-essential-skills-for-system-administrators-ce698b0ed403?source=rss-ac268fc36aef------2)
-- [Getting Started with Sysmon: Installation and Log Analysis with PowerShell.](https://towardsdev.com/getting-started-with-sysmon-installation-and-log-analysis-with-powershell-d1918d000189?source=rss-ac268fc36aef------2)
-- [Resolving Kubernetes Namespaces Stuck in Terminating State](https://towardsdev.com/resolving-kubernetes-namespaces-stuck-in-terminating-state-bd79ca14466e?source=rss-ac268fc36aef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
